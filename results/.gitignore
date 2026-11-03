@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*/
+!*.csv
+!*.png
+!*.json
+!*.md
